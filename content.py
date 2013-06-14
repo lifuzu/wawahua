@@ -1,6 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf8 -*-
 #
+# Written by Victor Liu
+# Jun 2013
+#
+
 import soup as SOUP
 import lianhuanhua_columns as COLUMN
 import db_access as DB
